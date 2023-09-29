@@ -23,7 +23,7 @@ setContacts(filteredContacts);
     ,[searchTerm])
     return(
         <>
-        <h1 className="heading">Contact Baba</h1>
+        <h1 className="heading">Contact List</h1>
         <input type=" text" placeholder="search" className="searchbar" value={searchTerm}
         onChange={(e)=>{
             setSearchTerm(e.target.value)

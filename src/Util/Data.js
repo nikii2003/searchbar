@@ -11,7 +11,7 @@
     mobile: 7385272549
 },
 {
-   name :"tRisha",
+   name :"Trisha",
    mobile : 5567392174
 },
 {
@@ -21,9 +21,23 @@ mobile :7385272549
 {
     name : "mayank",
     mobile :67453525386
-}
+},
 
-]
+
+
+
+];
+
+//  export function searchContact(contactNumber) {
+//     const contact = phonebook.find(contact => contact.mobile === contactNumber);
+
+//     if (contact) {
+//         console.log(`Contact found: ${contact.name}, Mobile: ${contact.mobile}`);
+//     } else {
+//         console.log("Contact not found.");
+//     }
+// }
+
 
 
 
